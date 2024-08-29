@@ -1,4 +1,4 @@
-# Hola, soy estudiante de ingeniería de sistemas y desarrollador de software javascript 👋.
+# Hola, soy ingeniero de sistemas y desarrollador de software JavaScript 👋.
 
 ### Proyectos 🧑🏻‍💻
 
