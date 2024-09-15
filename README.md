@@ -4,6 +4,7 @@
 
 - [Portafolio](https://www.robert-dev.com/)
 - [Dayvents (PWA)](https://dayvents.com/)
+- [Inspiración - Frases Diarias](https://play.google.com/store/apps/details?id=com.fraseapp.dev)
 - [Pagina de Hacienda de Puerto Berrío](https://frontend-secretary-treasury-pb.vercel.app/)
 - [js-time-ago (libreria)](https://www.npmjs.com/package/js-time-ago)
 
@@ -26,4 +27,7 @@
 [![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+[![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
+[![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 
