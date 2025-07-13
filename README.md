@@ -1,16 +1,15 @@
-# Hola, soy ingeniero de sistemas y desarrollador de software JavaScript 👋.
+# Hello, I am a systems engineer and JavaScript developer. 👋
 
-### Proyectos 🧑🏻‍💻
+### Projects 🧑🏻‍💻
 
-- [Portafolio](https://www.robert-dev.com/)
+- [Portfolio](https://www.robert-dev.com/)
 - [Dayvents (PWA)](https://dayvents.com/)
-- [Inspiración - Frases Diarias](https://play.google.com/store/apps/details?id=com.fraseapp.dev)
-- [Pagina de Hacienda de Puerto Berrío](https://frontend-secretary-treasury-pb.vercel.app/)
-- [js-time-ago (libreria)](https://www.npmjs.com/package/js-time-ago)
+- [Inspiration - Daily Phrases](https://play.google.com/store/apps/details?id=com.fraseapp.dev)
+- [js-time-ago (npm package)](https://www.npmjs.com/package/js-time-ago)
 
 ---
 
-### Tecnologías y Herramientas:
+### Technologies and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
